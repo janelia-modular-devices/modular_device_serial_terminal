@@ -23,9 +23,9 @@ the host computer operating system.
 
 Connect a USB cable from the host computer to the modular device. Open
 the Arduino IDE and select the appropriate serial port. Open the
-Arduino IDE Serial Monitor and select "Newline" and "9600 baud". Type
-a question mark ? into the input field and press Enter or click Send
-to get started.
+Arduino IDE Serial Monitor and select "Newline" and "115200
+baud". Type a question mark ? into the input field and press Enter or
+click Send to get started.
 
 ##Cutecom
 
