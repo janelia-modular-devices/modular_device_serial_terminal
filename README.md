@@ -30,8 +30,7 @@ click Send to get started.
 ## Cutecom
 
 Connect a USB cable from the host computer to the modular device. Open
-cutecom and enter the appropriate serial port. Select 9600, 8, 1,
+cutecom and enter the appropriate serial port. Select 115200, 8, 1,
 NONE, no handshake, and open for both reading and writing. Select LF
 line end. Open device. Type a question mark ? into the input field
 and press Enter to get started.
-
