@@ -12,10 +12,9 @@ License:
 
 ### Controlling Arduino-like Modular Device Servers
 
-Follow instructions on
-[Getting Started with Arduino](https://www.arduino.cc/en/Guide/HomePage)
-for setting up a host computer to communicate with Arduinos based on
-the host computer operating system.
+#### Install Arduino and Teensyduino on your Host Machine
+
+[Setup Arduino](https://github.com/janelia-arduino/arduino_setup)
 
 ## Serial Terminals
 
